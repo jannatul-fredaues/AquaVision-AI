@@ -1,4 +1,4 @@
-# Aquarium Fish
+# AquaVision AI
 
 Raw data file:
 https://drive.google.com/drive/folders/1DlB7zOf23A5v2pGtOtu5nvV55AcYeYYW?usp=sharing
